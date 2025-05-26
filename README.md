@@ -32,7 +32,4 @@ Sistema de gestão acadêmica para instituições de ensino, com funcionalidades
 4. Push para a branch: `git push origin minha-feature`
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
 
