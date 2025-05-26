@@ -27,64 +27,11 @@ Sistema de gestão acadêmica para instituições de ensino, com funcionalidades
 ## ✅ Como Contribuir
 
 1. Fork este repositório
-2. Crie uma branch: `git checkout -b minha-feature`
+2. Criar uma branch: `git checkout -b minha-feature`
 3. Commit suas alterações: `git commit -m 'feat: Minha feature'`
 4. Push para a branch: `git push origin minha-feature`
 5. Abra um Pull Request
 
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-package-lock.json
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.pyc
-.env
-
-# Logs
-logs
-*.log
-
-# Build
-build/
-dist/
-*.tgz
-.cache/
-
-# React
-*.env.local
-*.env.development.local
-*.env.test.local
-*.env.production.local
-.next/
-out/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Docker
-docker-compose.override.yml
-*.dockerfile
-
-# Tests
-coverage/
-junit.xml
-test-results/
-
-# VSCode
-.vscode/
-.idea/
-
-# Misc
-*.swp
-*.swo
-*.bak
 
 
